@@ -40,12 +40,6 @@ Built using Python and Tkinter, the project focuses on usability, security aware
 
 ---
 
-## 📸 App Preview
-
-![App Preview](screenshots/app-preview.png)
-
----
-
 ## 🚀 How to Run
 
 ```bash
