@@ -34,6 +34,12 @@ A GUI-based Password Strength Analyzer and Generator built using Python and Tkin
 
 ---
 
+## 📸 App Preview
+
+![App Preview](screenshots/app-preview.png)
+
+---
+
 ## 🚀 How to Run
 
 ```bash
