@@ -42,7 +42,7 @@ Built using Python and Tkinter, the project focuses on usability, security aware
 
 ## 📸 App Preview
 
-<img src="screenshots/app-preview.png" alt="App preview" width="600">
+<img src="screenshots/app-preview.png" alt="App preview" width="400">
 
 ---
 
